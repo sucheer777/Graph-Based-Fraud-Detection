@@ -1,0 +1,10 @@
+{
+    "num_nodes": 50000,
+    "num_edges": 347573,
+    "num_features": 30,
+    "num_fraud": 148,
+    "num_normal": 49852,
+    "k_neighbors": 5,
+    "graph_construction": "KNN",
+    "metric": "cosine"
+}
