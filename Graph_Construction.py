@@ -207,6 +207,7 @@ print("✅ PyG Data object saved to: data/processed/fraud_graph_pyg.pt")
 
 # Save metadata
 metadata = {
+    
     'num_nodes': data.num_nodes,
     'num_edges': data.num_edges,
     'num_features': data.num_node_features,
